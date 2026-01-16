@@ -1,0 +1,5 @@
+# Redirigir todo tráfico HTTP a HTTPS
+http://estilosgrado33.pages.dev/* https://estilosgrado33.pages.dev/:splat 301!
+
+# Manejo de errores personalizados (Opcional)
+/* /index.html 200
